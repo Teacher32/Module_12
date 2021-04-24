@@ -1,4 +1,4 @@
-package mod12.stock_market;
+/* package mod12.stock_market;
 
 import java.util.Scanner;
 
@@ -26,3 +26,4 @@ public class Main {
 
     }
 }
+*/
