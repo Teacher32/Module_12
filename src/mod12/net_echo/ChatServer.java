@@ -1,13 +1,9 @@
 package mod12.net_echo;
 
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
-import java.io.PrintStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class ChatServer {
     ArrayList<Client> clients = new ArrayList<>();
